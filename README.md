@@ -2,8 +2,7 @@
 
 ## Output
 
-![Screenshot 2024-02-21 231817](https://github.com/manyakhare86/Youtube_title_generator-Generative-AI-/assets/74348408/d673729e-721f-4845-a69b-57344b7d905c)
-
+![Screenshot 2024-03-24 165035](https://github.com/manyakhare86/Youtube_title_generator-Generative-AI-/assets/74348408/66f7cdb3-5e37-469d-8326-747398f7e858)
 
 
 The YouTube Video Title Generator is a tool designed to assist users in generating compelling titles for their YouTube videos. Leveraging OpenAI's powerful GPT-3 language model, this application suggests the top five titles based on the provided topic.
